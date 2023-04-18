@@ -1,0 +1,387 @@
+
+@media screen and (max-width: 1500px){
+    .bloc{
+        width: 90%;
+    }
+}
+html{
+    line-height: 1;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-weight: normal;
+}
+.image{
+    width: 17px;
+}
+.moi{
+    font-style: unset;
+}
+.imag2{
+    width: 17px;
+}
+.icone{
+    color: white;
+    margin-left: 50px;
+    font-size: 25px;
+}
+.ico{
+    width: 18px;
+}
+.vide{
+    height: 30px;
+    width: 1347px;
+    background-color: #002a40;
+}
+.header{
+    display: inline-flex;
+    margin: 0%;
+    padding: 0%;
+}
+.almoirie{
+    margin-left: 65px;
+    margin-top: 20px;
+}
+.SP{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.Spab{
+    position: relative;
+    left: -200px;
+    top: 60px;
+}
+.upj{
+    position: relative;
+    top: 50px;
+    font-size: 18px;
+    margin-left: 100px;
+}
+.drapeau{
+    margin-left: 200px;
+}
+.navig{
+    position: relative;
+    top: 2px;
+    right: 8px;
+    list-style: none;
+    width: 1357px;
+    margin: 0px;
+    background-color:#002a40; 
+    margin: 0%; 
+    padding: 0%;   
+}
+.navig li{
+    display: inline-block;
+}
+.navig li a{
+    display: block;
+    padding: 30px;
+    text-decoration: none;
+    color: rgb(104, 107, 110);
+    height: 9px;
+};
+.navig li a:hover{
+    color: blueviolet;
+}
+.nav ul li a:hover{
+    color: rgb(250, 252, 253);
+}
+.milieu{
+    text-align: center;
+    margin-top: 15px;
+    position: relative;
+    top: 15px;
+}
+.rell{
+    height: 43px;
+    width: 450px;
+}
+.button{
+    height: 43px;
+    background-color: rgb(39, 39, 241);
+    width: 140px;
+    color: white;
+    border-radius: 3px;
+}
+.butt2n{
+    height: 40px;
+    background-color: rgb(252, 29, 29);
+    width: 140px;
+    border-radius: 3px;
+    color: white;
+}
+.derive{
+    background-color: #dddcdc;
+    height: 70px;
+    margin: 0px;
+    position: relative;
+    top: -13px;
+    bottom: 15px;
+    padding: 0%;
+}
+.moi{
+    text-align: center;
+}
+.moi1{
+    font-size: 40px;
+}
+.moi2{
+    font-family: sans-serif;
+    
+}
+.align{
+    display: flex;
+    gap: 40px;
+    position: relative;
+    top: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align: center;
+}
+.une{
+    width: 450px;
+    height: 180px;
+    box-shadow: 0px 2px 2px 2px rgb(182, 176, 176);
+    border-radius: 1px;
+}
+.deux{
+    width: 450px;
+    height: 180px;
+    box-shadow: 0px 2px 2px 2px rgb(182, 176, 176);
+    border-radius: 1px;
+}
+.trois{
+    width: 450px;
+    box-shadow: 0px 2px 2px 2px rgb(182, 176, 176);
+    border-radius: 1px;
+}
+.quatre{
+    width: 450px;
+    box-shadow: 0px 2px 2px 2px rgb(182, 176, 176);
+    border-radius: 1px;
+    
+}
+section .align div:hover{
+    background-color: #002a40;
+    color: #dddcdc;
+    font-weight: bold;
+    border-radius: 3px;
+    box-shadow: 0px 4px 4px 4px rgb(149, 146, 153);
+    cursor: pointer;
+    overflow-block: hidden;
+    background: linear-gradient(rgb(101, 101, 240), rgb(26, 10, 207));
+}
+.button2{
+    position: relative;
+    top: 80px;
+    margin-left: 580px;
+    width: 200px;
+    height: 40px;
+    background-color: #002a40;
+    border-radius: 5px;
+    color: #dddcdc;
+}
+.center{
+    text-align: center;
+    font-size: 20px;
+}
+.center1{
+    font-size: 45px;
+}
+.Rectangle6{
+    background-color: #f5f5f5 !important;
+    height: 880px;
+}
+.pourquoi{
+    display: flex;
+    gap: 70px;
+    position: relative;
+    top: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align: center;
+}
+.pourquoi div{
+    box-shadow: 3px 3px 7px 7px #dddcdc;
+    box-shadow: 4px 4px 20px rgb(138, 133, 133);
+     
+}
+.pourquoi div:hover{
+    background-color: #f5f5f5;
+}
+.pourquoi2 div:hover{
+    background-color: #f5f5f5;
+}
+.pour{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
+.marge{
+    position: relative;
+    top: 10px;
+}
+.pour1{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
+.pour2{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
+.pour3{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
+.pourquoi2{
+    display: flex;
+    gap: 70px;
+    position: relative;
+    top: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align: center;
+}
+.pourquoi2 div{
+    box-shadow: 3px 3px 7px 7px #dddcdc;
+}
+.pour4{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
+.pour5{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
+.pour6{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
+.pour7{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
+.button4{
+    position: relative;
+    top: 60px;
+    margin-left: 580px;
+    width: 200px;
+    height: 40px;
+    background-color: #002a40;
+    border-radius: 5px;
+    color: #dddcdc;   
+}
+.dernier{
+    background-color: #002a40;
+    height: 370px;
+    margin-top: 55px;
+}
+.direction{
+    display: flex;
+    gap: 70px;
+    position: relative;
+    top: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align: center;
+    text-align: justify;
+    color: #dddcdc;
+}
+section .align div:hover{
+    background-color: #002a40;
+    color: #dddcdc;
+    font-weight: bold;
+    border-radius: 3px;
+    box-shadow: 0px 4px 4px 4px rgb(149, 146, 153);
+    cursor: pointer;
+    overflow-block: hidden;
+}
+.dern{
+    position: relative;
+    bottom: 9px;
+    margin-left: 360px;
+    color: #dddcdc;
+}
+.diffi img{
+    width: 30px;
+}
+.diffi div{
+    border-style: solid;
+    border-color: #a3a1a1;
+    height: 50px;
+    margin-left: 40px;
+    width: 300px;
+    border-radius: 3px;
+}
+.diffi{
+    width: 100%;
+    display: flex;
+    text-align: justify;
+    gap: 150px;
+}
+.display{
+    line-height: px;
+    border-color: grey; 
+}
+.secte{
+    border-style: groove;
+    height: 1550px;
+    width: 600px;
+    border-radius: 6px;
+    position: relative;
+    top: 50px;
+    position: relative;
+    left: 45px;
+    top: 65px;
+}
+.display tr{
+    position: relative;
+    top: 100px;
+}
+.tableau{
+    position: relative;
+    top: 90px;
+    border: solid;
+   
+}
+.but{
+    background-color: #063349;
+    color: aliceblue;
+    width: 500px;
+    height: 100px;
+    position: absolute;
+    z-index: 1;
+    position: relative;
+    bottom: 50px;
+    border-radius: 3px;
+    margin-left: 25px;
+    box-shadow: 7px 7px 10px 10px;
+    color: rgb(212, 210, 210);
+}
+.hh{
+    position: relative;
+    top: 5px;
+}
+.diffi .hover1 div:hover{
+    box-shadow: 4px 4px 20px black;
+
+}
+.hover1{
+    position: relative;
+    top: 55px;
+
+}
